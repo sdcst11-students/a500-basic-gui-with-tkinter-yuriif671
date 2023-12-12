@@ -1,0 +1,7 @@
+.github/
+*.pyc
+test.pyc
+__pycache__/
+.vscode/
+test.py
+test/
